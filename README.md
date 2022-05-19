@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente trabalho como Supervisora de TI
-- 🌱 Estou estudando sobre Análise de Dados
+- 🌱 Analista de Dados
 - 👩🏻 Pronomes: ela/dela
 - 📫 Como chegar até mim: 
 
