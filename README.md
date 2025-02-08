@@ -3,7 +3,7 @@
 ### Eu sou a Cárita Pelandra!👋
 
 
-- 🔭 Atualmente trabalho como Supervisora de TICS e sou uma estudante apaixonada por Dados
+- 🔭 Atualmente atuo como Analista Sênior de Projetos
 - 🌱 Analista de Dados
 - 👩🏻 Pronomes: ela/dela
 - 📫 Como chegar até mim: 
